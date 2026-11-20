@@ -33,5 +33,4 @@ public class ShoppingCart {
         return totalPrice;
     }
 
-
 }
